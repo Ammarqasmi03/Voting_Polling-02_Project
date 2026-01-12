@@ -1,4 +1,4 @@
-package repositories;
+package com.voting.VotingApp.repositories;
 
 import com.voting.VotingApp.Model.Poll;
 import org.springframework.data.jpa.repository.JpaRepository;
