@@ -1,11 +1,11 @@
 export interface PollOption{
-    optionText : String;
-    votes : number;
+    optionText : string;
+    voteCount : number;
 }
 
 export interface Poll {
-    id : number;
-    question : String ;
+    id ?: number;
+    questions : string ;
     options : PollOption[];
     
 }
