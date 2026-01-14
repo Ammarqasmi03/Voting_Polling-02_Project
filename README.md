@@ -15,10 +15,15 @@ Objectives of the Project
 The main objectives of this project are:
 
 -> To develop a web-based polling system using modern technologies
+
 -> To allow users to create polls with multiple voting options
+
 -> To enable real-time voting and instant result updates
+
 -> To store poll and vote data securely in a database
+
 -> To implement a clean API-based architecture
+
 -> To demonstrate full-stack development skills
 
 
