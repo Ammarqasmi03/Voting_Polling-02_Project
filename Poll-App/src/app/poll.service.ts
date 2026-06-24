@@ -7,7 +7,7 @@ import { Poll } from './poll.models';
   providedIn: 'root',
 })
 export class PollService {
-  private baseUrl = 'http://localhost:8081/api/polls';
+  private baseUrl = 'https://voting-polling-02-project.onrender.com/api/polls';
   
   constructor(private http : HttpClient){ }
 
